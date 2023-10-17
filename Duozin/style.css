@@ -1,0 +1,24 @@
+    /* Como a tag div tem 'id', a gente consegue encontrar usando uma '#'  */
+    /* se usássemos 'class', a gente consegue encontrar usando um '.', ex: .conteudo */
+    #conteudo{
+    background: lightblue;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    padding: 10px;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 26px;
+    }
+
+    .btn{
+    background: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80px;
+    font-size: 14px;
+    font-family: sans-serif;
+    }
