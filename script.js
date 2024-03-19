@@ -1,5 +1,5 @@
     function sim(){
-        alert("Hoje é até ganhar ein, bb! <3 ")
+        alert("Boraaa, aqui é até de madrugada! ")
     }
 
     function desvia(t){
